@@ -6,7 +6,6 @@ using UnityEngine.EventSystems;
 
 public class Ball : MonoBehaviour
 {
-    public Wall wall;
     public Vector3 Pos;
     Rigidbody rb;
     bool isActive;
